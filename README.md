@@ -9,7 +9,8 @@
 | Styling Index Page     | 27-Jan             | EJS Mate       |
 | Styling New Listing    | 27-Jan             |                |
 | Styling Edit Listing   | 27-Jan             |                |  
- 
+
+ # 52-Project-Phase-1-Part-c-
 # dev2 added error handling and joiValidation in project.
 
 | Content                | Created & Practiced | Libraries Used |
@@ -22,7 +23,9 @@
 | Error.ejs                | 30-Jan             |                |  
 | Joi Schema Validation    | 30-Jan             | Joi            |
 | JoiValidation middleware | 30-Jan             |                |  
-  
+
+
+ # 54-Project-Phase-2-Part-c- 
 # dev3 added relational db and their operations.
 
 
@@ -36,4 +39,4 @@
 | Render Reviews         | 31-Jan             |                |  
 | Deleting Reviews rel   | 31-Jan             |                |
 | Deleting Listing rel   | 31-Jan             |                |  
-   # check ejs files for errors in forms code mistake made by chatGpT.
+
